@@ -112,6 +112,7 @@ app.get('/converter', (req, res) => {
 
 //creando otro endpoint
 
+//Esto es un simple comentario
 
 app.listen(port, () => {  //puerto donde escucha la aplicación
     //    console.log("El servidor está corriendo en http://localhost:3000"); //callback aprendiendo
